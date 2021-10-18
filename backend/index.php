@@ -1,1 +1,1 @@
-<?php echo 'man';
+<?php echo 'Hello World - My PHP api is alive!';
